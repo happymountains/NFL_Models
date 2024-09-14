@@ -1,0 +1,7 @@
+*.csv
+.Rhistory
+.RData
+*.gsheet
+*.png
+*.pdf
+.git
